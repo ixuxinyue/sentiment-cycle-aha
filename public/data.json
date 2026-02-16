@@ -1,0 +1,392 @@
+[
+  {
+    "date": "20260105",
+    "market_index": 141.25,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": 1.38
+    }
+  },
+  {
+    "date": "20260106",
+    "market_index": 144.92,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": 1.5
+    }
+  },
+  {
+    "date": "20260107",
+    "market_index": 101.55,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": 0.05
+    }
+  },
+  {
+    "date": "20260108",
+    "market_index": 97.95,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": -0.07
+    }
+  },
+  {
+    "date": "20260109",
+    "market_index": 127.51,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": 0.92
+    }
+  },
+  {
+    "date": "20260112",
+    "market_index": 132.66,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": 1.09
+    }
+  },
+  {
+    "date": "20260113",
+    "market_index": 80.89,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": -0.64
+    }
+  },
+  {
+    "date": "20260114",
+    "market_index": 90.82,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": -0.31
+    }
+  },
+  {
+    "date": "20260115",
+    "market_index": 90.19,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": -0.33
+    }
+  },
+  {
+    "date": "20260116",
+    "market_index": 92.2,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": -0.26
+    }
+  },
+  {
+    "date": "20260119",
+    "market_index": 108.84,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": 0.29
+    }
+  },
+  {
+    "date": "20260120",
+    "market_index": 99.74,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": -0.01
+    }
+  },
+  {
+    "date": "20260121",
+    "market_index": 102.4,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": 0.08
+    }
+  },
+  {
+    "date": "20260122",
+    "market_index": 104.11,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": 0.14
+    }
+  },
+  {
+    "date": "20260123",
+    "market_index": 109.89,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": 0.33
+    }
+  },
+  {
+    "date": "20260126",
+    "market_index": 97.42,
+    "super_short_sentiment": 0,
+    "losing_money_effect": 0,
+    "details": {
+      "limit_up_count": 0,
+      "bomb_count": 0,
+      "limit_down_count": 0,
+      "up_count": null,
+      "sse_change_pct": -0.09
+    }
+  },
+  {
+    "date": "20260127",
+    "market_index": 105.3,
+    "super_short_sentiment": 53,
+    "losing_money_effect": 29.35,
+    "details": {
+      "limit_up_count": 53,
+      "bomb_count": 18,
+      "limit_down_count": 2,
+      "up_count": null,
+      "sse_change_pct": 0.18
+    }
+  },
+  {
+    "date": "20260128",
+    "market_index": 108.21,
+    "super_short_sentiment": 80,
+    "losing_money_effect": 34.53,
+    "details": {
+      "limit_up_count": 80,
+      "bomb_count": 26,
+      "limit_down_count": 5,
+      "up_count": null,
+      "sse_change_pct": 0.27
+    }
+  },
+  {
+    "date": "20260129",
+    "market_index": 104.88,
+    "super_short_sentiment": 82,
+    "losing_money_effect": 53.91,
+    "details": {
+      "limit_up_count": 82,
+      "bomb_count": 35,
+      "limit_down_count": 12,
+      "up_count": null,
+      "sse_change_pct": 0.16
+    }
+  },
+  {
+    "date": "20260130",
+    "market_index": 71.11,
+    "super_short_sentiment": 48,
+    "losing_money_effect": 134.43,
+    "details": {
+      "limit_up_count": 48,
+      "bomb_count": 21,
+      "limit_down_count": 52,
+      "up_count": null,
+      "sse_change_pct": -0.96
+    }
+  },
+  {
+    "date": "20260202",
+    "market_index": 25.54,
+    "super_short_sentiment": 36,
+    "losing_money_effect": 329.33,
+    "details": {
+      "limit_up_count": 36,
+      "bomb_count": 18,
+      "limit_down_count": 98,
+      "up_count": null,
+      "sse_change_pct": -2.48
+    }
+  },
+  {
+    "date": "20260203",
+    "market_index": 138.84,
+    "super_short_sentiment": 69,
+    "losing_money_effect": 38.69,
+    "details": {
+      "limit_up_count": 69,
+      "bomb_count": 18,
+      "limit_down_count": 9,
+      "up_count": null,
+      "sse_change_pct": 1.29
+    }
+  },
+  {
+    "date": "20260204",
+    "market_index": 125.42,
+    "super_short_sentiment": 68,
+    "losing_money_effect": 31.84,
+    "details": {
+      "limit_up_count": 68,
+      "bomb_count": 19,
+      "limit_down_count": 5,
+      "up_count": null,
+      "sse_change_pct": 0.85
+    }
+  },
+  {
+    "date": "20260205",
+    "market_index": 80.78,
+    "super_short_sentiment": 44,
+    "losing_money_effect": 48.52,
+    "details": {
+      "limit_up_count": 44,
+      "bomb_count": 10,
+      "limit_down_count": 15,
+      "up_count": null,
+      "sse_change_pct": -0.64
+    }
+  },
+  {
+    "date": "20260206",
+    "market_index": 92.39,
+    "super_short_sentiment": 55,
+    "losing_money_effect": 42.1,
+    "details": {
+      "limit_up_count": 55,
+      "bomb_count": 26,
+      "limit_down_count": 5,
+      "up_count": null,
+      "sse_change_pct": -0.25
+    }
+  },
+  {
+    "date": "20260209",
+    "market_index": 142.43,
+    "super_short_sentiment": 83,
+    "losing_money_effect": 29.85,
+    "details": {
+      "limit_up_count": 83,
+      "bomb_count": 26,
+      "limit_down_count": 3,
+      "up_count": null,
+      "sse_change_pct": 1.41
+    }
+  },
+  {
+    "date": "20260210",
+    "market_index": 103.84,
+    "super_short_sentiment": 60,
+    "losing_money_effect": 15.76,
+    "details": {
+      "limit_up_count": 60,
+      "bomb_count": 8,
+      "limit_down_count": 2,
+      "up_count": null,
+      "sse_change_pct": 0.13
+    }
+  },
+  {
+    "date": "20260211",
+    "market_index": 102.62,
+    "super_short_sentiment": 51,
+    "losing_money_effect": 35.0,
+    "details": {
+      "limit_up_count": 51,
+      "bomb_count": 17,
+      "limit_down_count": 5,
+      "up_count": null,
+      "sse_change_pct": 0.09
+    }
+  },
+  {
+    "date": "20260212",
+    "market_index": 101.48,
+    "super_short_sentiment": 60,
+    "losing_money_effect": 50.05,
+    "details": {
+      "limit_up_count": 60,
+      "bomb_count": 19,
+      "limit_down_count": 13,
+      "up_count": null,
+      "sse_change_pct": 0.05
+    }
+  },
+  {
+    "date": "20260213",
+    "market_index": 62.3,
+    "super_short_sentiment": 32,
+    "losing_money_effect": 49.58,
+    "details": {
+      "limit_up_count": 32,
+      "bomb_count": 11,
+      "limit_down_count": 12,
+      "up_count": null,
+      "sse_change_pct": -1.26
+    }
+  }
+]
