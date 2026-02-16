@@ -9,10 +9,11 @@ type SentimentData = {
   super_short_sentiment: number
   losing_money_effect: number
   details?: {
-    up_count: number
+    up_count: number | null
     limit_up_count: number
     bomb_count: number
     limit_down_count: number
+    sse_change_pct?: number
   }
 }
 
@@ -52,7 +53,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                 />
                 <Tooltip
                   labelFormatter={(label) => `日期: ${label}`}
-                  formatter={(value: number, name: string) => {
+                  formatter={(value: any, name: any) => {
                     const nameMap: Record<string, string> = {
                       market_index: "大盘指数 (红)",
                       super_short_sentiment: "超短情绪 (紫)",
@@ -83,6 +84,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                   activeDot={{ r: 6 }}
                   label={(props) => {
                     const { x, y, value, index } = props;
+                    if (index === undefined) return null;
                     const item = data[index];
                     if (item && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
                       return <text x={x} y={y} dy={-10} fill="#ef4444" fontSize={11} textAnchor="middle" fontWeight="bold">{value}</text>;
@@ -100,6 +102,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                   activeDot={{ r: 6 }}
                   label={(props) => {
                     const { x, y, value, index } = props;
+                    if (index === undefined) return null;
                     const item = data[index];
                     if (item && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
                       return <text x={x} y={y} dy={-10} fill="#a855f7" fontSize={11} textAnchor="middle" fontWeight="bold">{value}</text>;
@@ -117,6 +120,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                   activeDot={{ r: 6 }}
                   label={(props) => {
                     const { x, y, value, index } = props;
+                    if (index === undefined) return null;
                     const item = data[index];
                     if (item && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
                       return <text x={x} y={y} dy={-10} fill="#22c55e" fontSize={11} textAnchor="middle" fontWeight="bold">{value}</text>;
