@@ -15,6 +15,7 @@ async function getData() {
 
 export default async function Home() {
   const data = await getData();
+  const latestDate = data.at(-1)?.date;
 
   return (
     <div className="container mx-auto py-10 px-4">
@@ -24,6 +25,7 @@ export default async function Home() {
           <p className="text-muted-foreground">
             基于量化分析的市场情绪追踪系统。每日收盘后自动更新。
           </p>
+          <p className="text-sm text-muted-foreground">当前数据: {latestDate ?? "暂无数据"}</p>
         </div>
 
         <SentimentChart data={data} />

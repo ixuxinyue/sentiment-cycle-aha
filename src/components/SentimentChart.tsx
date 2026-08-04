@@ -53,13 +53,14 @@ export function SentimentChart({ data }: SentimentChartProps) {
                 />
                 <Tooltip
                   labelFormatter={(label) => `日期: ${label}`}
-                  formatter={(value: any, name: any) => {
+                  formatter={(value, name) => {
                     const nameMap: Record<string, string> = {
                       market_index: "大盘指数 (红)",
                       super_short_sentiment: "超短情绪 (紫)",
                       losing_money_effect: "亏钱效应 (绿)",
                     };
-                    return [value, nameMap[name] || name];
+                    const key = String(name);
+                    return [value ?? "-", nameMap[key] || key];
                   }}
                 />
                 <Legend

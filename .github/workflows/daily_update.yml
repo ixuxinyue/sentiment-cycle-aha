@@ -2,8 +2,9 @@ name: Update Sentiment Data
 
 on:
   schedule:
-    # Run at 16:00 Beijing Time (UTC+8) = 08:00 UTC
-    - cron: '0 8 * * *'
+    # Run at 16:10 Beijing Time (UTC+8) = 08:10 UTC.
+    # Avoid the top of the hour because scheduled GitHub Actions can be delayed then.
+    - cron: '10 8 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -28,10 +29,10 @@ jobs:
           pip install akshare pandas
           
       - name: Run update script
-        run: python scripts/update_data.py
+        run: python scripts/update_data.py --fill-missing
         
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update sentiment data [skip ci]"
+          commit_message: "chore: update sentiment data"
           file_pattern: 'public/data.json'
