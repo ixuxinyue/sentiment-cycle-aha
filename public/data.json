@@ -2,547 +2,547 @@
   {
     "date": "20251209",
     "market_index": 88.87,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1777
     }
   },
   {
     "date": "20251210",
     "market_index": 93.07,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1861
     }
   },
   {
     "date": "20251211",
     "market_index": 79.1,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1581
     }
   },
   {
     "date": "20251212",
     "market_index": 112.41,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2248
     }
   },
   {
     "date": "20251215",
     "market_index": 83.47,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1669
     }
   },
   {
     "date": "20251216",
     "market_index": 66.56,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1331
     }
   },
   {
     "date": "20251217",
     "market_index": 135.66,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2713
     }
   },
   {
     "date": "20251218",
     "market_index": 104.72,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2094
     }
   },
   {
     "date": "20251219",
     "market_index": 110.89,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2217
     }
   },
   {
     "date": "20251222",
     "market_index": 120.76,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2415
     }
   },
   {
     "date": "20251223",
-    "market_index": 102.0,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "market_index": 102,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2040
     }
   },
   {
     "date": "20251224",
     "market_index": 116.05,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2320
     }
   },
   {
     "date": "20251225",
     "market_index": 114.22,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2284
     }
   },
   {
     "date": "20251226",
     "market_index": 103.07,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2061
     }
   },
   {
     "date": "20251229",
     "market_index": 101.21,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2024
     }
   },
   {
     "date": "20251230",
     "market_index": 99.88,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1997
     }
   },
   {
     "date": "20251231",
     "market_index": 102.82,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2056
     }
   },
   {
     "date": "20260105",
     "market_index": 141.25,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2825
     }
   },
   {
     "date": "20260106",
     "market_index": 144.92,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2898
     }
   },
   {
     "date": "20260107",
     "market_index": 101.55,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2030
     }
   },
   {
     "date": "20260108",
     "market_index": 97.95,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1958
     }
   },
   {
     "date": "20260109",
     "market_index": 127.51,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2550
     }
   },
   {
     "date": "20260112",
     "market_index": 132.66,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2653
     }
   },
   {
     "date": "20260113",
     "market_index": 80.89,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1617
     }
   },
   {
     "date": "20260114",
     "market_index": 90.82,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1816
     }
   },
   {
     "date": "20260115",
     "market_index": 90.19,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1803
     }
   },
   {
     "date": "20260116",
     "market_index": 92.2,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1844
     }
   },
   {
     "date": "20260119",
     "market_index": 108.84,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2176
     }
   },
   {
     "date": "20260120",
     "market_index": 99.74,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1994
     }
   },
   {
     "date": "20260121",
     "market_index": 102.4,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2048
     }
   },
   {
     "date": "20260122",
     "market_index": 104.11,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2082
     }
   },
   {
     "date": "20260123",
     "market_index": 109.89,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2197
     }
   },
   {
     "date": "20260126",
     "market_index": 97.42,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1948
     }
   },
   {
     "date": "20260127",
     "market_index": 105.3,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2105
     }
   },
   {
     "date": "20260128",
     "market_index": 108.21,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2164
     }
   },
   {
     "date": "20260129",
     "market_index": 104.88,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2097
     }
   },
   {
     "date": "20260130",
     "market_index": 71.11,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1422
     }
   },
   {
     "date": "20260202",
     "market_index": 25.54,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 510
     }
   },
   {
     "date": "20260203",
     "market_index": 138.84,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2776
     }
   },
   {
     "date": "20260204",
     "market_index": 125.42,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2508
     }
   },
   {
     "date": "20260205",
     "market_index": 80.78,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1615
     }
   },
   {
     "date": "20260206",
     "market_index": 92.39,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1847
     }
   },
   {
     "date": "20260209",
     "market_index": 142.43,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2848
     }
   },
   {
     "date": "20260210",
     "market_index": 103.84,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2076
     }
   },
   {
     "date": "20260211",
     "market_index": 102.62,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2052
     }
   },
   {
     "date": "20260212",
     "market_index": 101.48,
-    "super_short_sentiment": 60.0,
+    "super_short_sentiment": 60,
     "losing_money_effect": 50.05,
     "details": {
       "limit_up_count": 60,
@@ -554,7 +554,7 @@
   {
     "date": "20260213",
     "market_index": 62.3,
-    "super_short_sentiment": 32.0,
+    "super_short_sentiment": 32,
     "losing_money_effect": 49.58,
     "details": {
       "limit_up_count": 32,
@@ -566,7 +566,7 @@
   {
     "date": "20260224",
     "market_index": 125.97,
-    "super_short_sentiment": 92.0,
+    "super_short_sentiment": 92,
     "losing_money_effect": 61.34,
     "details": {
       "limit_up_count": 92,
@@ -578,7 +578,7 @@
   {
     "date": "20260225",
     "market_index": 121.73,
-    "super_short_sentiment": 75.0,
+    "super_short_sentiment": 75,
     "losing_money_effect": 37.82,
     "details": {
       "limit_up_count": 75,
@@ -590,7 +590,7 @@
   {
     "date": "20260226",
     "market_index": 99.57,
-    "super_short_sentiment": 61.0,
+    "super_short_sentiment": 61,
     "losing_money_effect": 33.38,
     "details": {
       "limit_up_count": 61,
@@ -602,7 +602,7 @@
   {
     "date": "20260227",
     "market_index": 111.76,
-    "super_short_sentiment": 75.0,
+    "super_short_sentiment": 75,
     "losing_money_effect": 16.67,
     "details": {
       "limit_up_count": 75,
@@ -614,7 +614,7 @@
   {
     "date": "20260302",
     "market_index": 114.2,
-    "super_short_sentiment": 88.0,
+    "super_short_sentiment": 88,
     "losing_money_effect": 36.72,
     "details": {
       "limit_up_count": 88,
@@ -639,7 +639,7 @@
   {
     "date": "20260304",
     "market_index": 70.75,
-    "super_short_sentiment": 44.0,
+    "super_short_sentiment": 44,
     "losing_money_effect": 52.16,
     "details": {
       "limit_up_count": 44,
@@ -651,7 +651,7 @@
   {
     "date": "20260305",
     "market_index": 119.17,
-    "super_short_sentiment": 69.0,
+    "super_short_sentiment": 69,
     "losing_money_effect": 36.3,
     "details": {
       "limit_up_count": 69,
@@ -663,8 +663,8 @@
   {
     "date": "20260306",
     "market_index": 111.41,
-    "super_short_sentiment": 74.0,
-    "losing_money_effect": 26.0,
+    "super_short_sentiment": 74,
+    "losing_money_effect": 26,
     "details": {
       "limit_up_count": 74,
       "bomb_count": 26,
@@ -675,7 +675,7 @@
   {
     "date": "20260309",
     "market_index": 79.93,
-    "super_short_sentiment": 42.0,
+    "super_short_sentiment": 42,
     "losing_money_effect": 50.74,
     "details": {
       "limit_up_count": 42,
@@ -687,7 +687,7 @@
   {
     "date": "20260310",
     "market_index": 119.43,
-    "super_short_sentiment": 56.0,
+    "super_short_sentiment": 56,
     "losing_money_effect": 36.21,
     "details": {
       "limit_up_count": 56,
@@ -699,7 +699,7 @@
   {
     "date": "20260311",
     "market_index": 107.49,
-    "super_short_sentiment": 53.0,
+    "super_short_sentiment": 53,
     "losing_money_effect": 29.35,
     "details": {
       "limit_up_count": 53,
@@ -711,7 +711,7 @@
   {
     "date": "20260312",
     "market_index": 96.86,
-    "super_short_sentiment": 52.0,
+    "super_short_sentiment": 52,
     "losing_money_effect": 32.77,
     "details": {
       "limit_up_count": 52,
@@ -723,811 +723,811 @@
   {
     "date": "20260313",
     "market_index": 75.55,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1510
     }
   },
   {
     "date": "20260316",
     "market_index": 92.19,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1843
     }
   },
   {
     "date": "20260317",
     "market_index": 74.38,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1487
     }
   },
   {
     "date": "20260318",
     "market_index": 109.69,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2193
     }
   },
   {
     "date": "20260319",
     "market_index": 58.33,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1166
     }
   },
   {
     "date": "20260320",
     "market_index": 62.94,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1258
     }
   },
   {
     "date": "20260323",
     "market_index": 10,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 200
     }
   },
   {
     "date": "20260324",
     "market_index": 153.49,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 3069
     }
   },
   {
     "date": "20260325",
     "market_index": 139.08,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2781
     }
   },
   {
     "date": "20260326",
     "market_index": 67.38,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1347
     }
   },
   {
     "date": "20260327",
     "market_index": 119.01,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2380
     }
   },
   {
     "date": "20260330",
     "market_index": 107.33,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2146
     }
   },
   {
     "date": "20260331",
     "market_index": 75.97,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1519
     }
   },
   {
     "date": "20260401",
     "market_index": 143.7,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2873
     }
   },
   {
     "date": "20260402",
     "market_index": 77.76,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1555
     }
   },
   {
     "date": "20260403",
-    "market_index": 70.0,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "market_index": 70,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1400
     }
   },
   {
     "date": "20260407",
     "market_index": 107.78,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2155
     }
   },
   {
     "date": "20260408",
     "market_index": 180.84,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 3616
     }
   },
   {
     "date": "20260409",
     "market_index": 78.35,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1567
     }
   },
   {
     "date": "20260410",
     "market_index": 115.17,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2303
     }
   },
   {
     "date": "20260413",
     "market_index": 101.76,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2035
     }
   },
   {
     "date": "20260414",
     "market_index": 128.63,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2572
     }
   },
   {
     "date": "20260415",
     "market_index": 100.44,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2008
     }
   },
   {
     "date": "20260416",
     "market_index": 121.11,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2422
     }
   },
   {
     "date": "20260417",
     "market_index": 96.95,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1939
     }
   },
   {
     "date": "20260420",
     "market_index": 122.73,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2454
     }
   },
   {
     "date": "20260421",
     "market_index": 102.17,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2043
     }
   },
   {
     "date": "20260422",
     "market_index": 115.55,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2311
     }
   },
   {
     "date": "20260423",
     "market_index": 90.5,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1809
     }
   },
   {
     "date": "20260424",
     "market_index": 90.22,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1804
     }
   },
   {
     "date": "20260427",
     "market_index": 104.74,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2094
     }
   },
   {
     "date": "20260428",
     "market_index": 94.34,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1886
     }
   },
   {
     "date": "20260429",
     "market_index": 121.24,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2424
     }
   },
   {
     "date": "20260430",
     "market_index": 103.39,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2067
     }
   },
   {
     "date": "20260506",
     "market_index": 135.03,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2700
     }
   },
   {
     "date": "20260507",
     "market_index": 114.36,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2287
     }
   },
   {
     "date": "20260508",
     "market_index": 99.9,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1997
     }
   },
   {
     "date": "20260511",
     "market_index": 132.35,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2646
     }
   },
   {
     "date": "20260512",
     "market_index": 92.52,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1850
     }
   },
   {
     "date": "20260513",
     "market_index": 119.99,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2399
     }
   },
   {
     "date": "20260514",
     "market_index": 54.28,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1085
     }
   },
   {
     "date": "20260515",
     "market_index": 69.46,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1389
     }
   },
   {
     "date": "20260518",
     "market_index": 97.2,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1943
     }
   },
   {
     "date": "20260519",
     "market_index": 127.6,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2551
     }
   },
   {
     "date": "20260520",
     "market_index": 94.71,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1894
     }
   },
   {
     "date": "20260521",
     "market_index": 38.8,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 776
     }
   },
   {
     "date": "20260522",
     "market_index": 126.21,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2524
     }
   },
   {
     "date": "20260525",
     "market_index": 128.94,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2578
     }
   },
   {
     "date": "20260526",
     "market_index": 94.8,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1896
     }
   },
   {
     "date": "20260527",
     "market_index": 62.62,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1252
     }
   },
   {
     "date": "20260528",
     "market_index": 103.6,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2071
     }
   },
   {
     "date": "20260529",
     "market_index": 77.99,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1559
     }
   },
   {
     "date": "20260601",
     "market_index": 92.02,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1840
     }
   },
   {
     "date": "20260602",
     "market_index": 112.84,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2256
     }
   },
   {
     "date": "20260603",
     "market_index": 106.53,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2130
     }
   },
   {
     "date": "20260604",
     "market_index": 80.76,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1615
     }
   },
   {
     "date": "20260605",
     "market_index": 77.79,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1555
     }
   },
   {
     "date": "20260608",
     "market_index": 49.05,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 981
     }
   },
   {
     "date": "20260609",
     "market_index": 138.41,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2768
     }
   },
   {
     "date": "20260610",
     "market_index": 87.43,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1748
     }
   },
   {
     "date": "20260611",
     "market_index": 95.33,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1906
     }
   },
   {
     "date": "20260612",
     "market_index": 133.48,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2669
     }
   },
   {
     "date": "20260615",
     "market_index": 148.34,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2966
     }
   },
   {
     "date": "20260616",
     "market_index": 96.65,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1932
     }
   },
   {
     "date": "20260617",
     "market_index": 111.87,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2237
     }
   },
   {
     "date": "20260618",
     "market_index": 87.15,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 1743
     }
   },
   {
     "date": "20260622",
     "market_index": 153.26,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 3065
     }
   },
   {
     "date": "20260623",
     "market_index": 59.04,
-    "super_short_sentiment": 96.0,
+    "super_short_sentiment": 96,
     "losing_money_effect": 112.25,
     "details": {
       "limit_up_count": 96,
@@ -1539,7 +1539,7 @@
   {
     "date": "20260624",
     "market_index": 103.33,
-    "super_short_sentiment": 98.0,
+    "super_short_sentiment": 98,
     "losing_money_effect": 43.01,
     "details": {
       "limit_up_count": 98,
@@ -1551,7 +1551,7 @@
   {
     "date": "20260625",
     "market_index": 106.91,
-    "super_short_sentiment": 86.0,
+    "super_short_sentiment": 86,
     "losing_money_effect": 60.5,
     "details": {
       "limit_up_count": 86,
@@ -1563,7 +1563,7 @@
   {
     "date": "20260626",
     "market_index": 32.27,
-    "super_short_sentiment": 60.0,
+    "super_short_sentiment": 60,
     "losing_money_effect": 96.84,
     "details": {
       "limit_up_count": 60,
@@ -1575,7 +1575,7 @@
   {
     "date": "20260629",
     "market_index": 134.74,
-    "super_short_sentiment": 107.0,
+    "super_short_sentiment": 107,
     "losing_money_effect": 102.21,
     "details": {
       "limit_up_count": 107,
@@ -1587,7 +1587,7 @@
   {
     "date": "20260630",
     "market_index": 115.09,
-    "super_short_sentiment": 140.0,
+    "super_short_sentiment": 140,
     "losing_money_effect": 25.66,
     "details": {
       "limit_up_count": 140,
@@ -1599,7 +1599,7 @@
   {
     "date": "20260701",
     "market_index": 113.22,
-    "super_short_sentiment": 152.0,
+    "super_short_sentiment": 152,
     "losing_money_effect": 44.74,
     "details": {
       "limit_up_count": 152,
@@ -1611,7 +1611,7 @@
   {
     "date": "20260702",
     "market_index": 39.06,
-    "super_short_sentiment": 93.0,
+    "super_short_sentiment": 93,
     "losing_money_effect": 110.08,
     "details": {
       "limit_up_count": 93,
@@ -1623,7 +1623,7 @@
   {
     "date": "20260703",
     "market_index": 110.97,
-    "super_short_sentiment": 108.0,
+    "super_short_sentiment": 108,
     "losing_money_effect": 70.5,
     "details": {
       "limit_up_count": 108,
@@ -1635,7 +1635,7 @@
   {
     "date": "20260706",
     "market_index": 98.22,
-    "super_short_sentiment": 64.0,
+    "super_short_sentiment": 64,
     "losing_money_effect": 131.05,
     "details": {
       "limit_up_count": 64,
@@ -1647,7 +1647,7 @@
   {
     "date": "20260707",
     "market_index": 62.14,
-    "super_short_sentiment": 33.0,
+    "super_short_sentiment": 33,
     "losing_money_effect": 101.07,
     "details": {
       "limit_up_count": 33,
@@ -1659,7 +1659,7 @@
   {
     "date": "20260708",
     "market_index": 85.45,
-    "super_short_sentiment": 47.0,
+    "super_short_sentiment": 47,
     "losing_money_effect": 104.95,
     "details": {
       "limit_up_count": 47,
@@ -1671,7 +1671,7 @@
   {
     "date": "20260709",
     "market_index": 149.64,
-    "super_short_sentiment": 75.0,
+    "super_short_sentiment": 75,
     "losing_money_effect": 42.48,
     "details": {
       "limit_up_count": 75,
@@ -1683,7 +1683,7 @@
   {
     "date": "20260710",
     "market_index": 69.96,
-    "super_short_sentiment": 92.0,
+    "super_short_sentiment": 92,
     "losing_money_effect": 57.73,
     "details": {
       "limit_up_count": 92,
@@ -1695,7 +1695,7 @@
   {
     "date": "20260713",
     "market_index": 38.16,
-    "super_short_sentiment": 29.0,
+    "super_short_sentiment": 29,
     "losing_money_effect": 376.56,
     "details": {
       "limit_up_count": 29,
@@ -1707,19 +1707,19 @@
   {
     "date": "20260714",
     "market_index": 140.88,
-    "super_short_sentiment": 0.0,
-    "losing_money_effect": 0.0,
+    "super_short_sentiment": 0,
+    "losing_money_effect": null,
     "details": {
       "limit_up_count": 0,
-      "bomb_count": 0,
-      "limit_down_count": 0,
+      "bomb_count": null,
+      "limit_down_count": null,
       "up_count": 2817
     }
   },
   {
     "date": "20260715",
     "market_index": 91.27,
-    "super_short_sentiment": 72.0,
+    "super_short_sentiment": 72,
     "losing_money_effect": 84.58,
     "details": {
       "limit_up_count": 72,
@@ -1731,7 +1731,7 @@
   {
     "date": "20260716",
     "market_index": 44.51,
-    "super_short_sentiment": 42.0,
+    "super_short_sentiment": 42,
     "losing_money_effect": 103.31,
     "details": {
       "limit_up_count": 42,
@@ -1743,7 +1743,7 @@
   {
     "date": "20260717",
     "market_index": 10,
-    "super_short_sentiment": 33.0,
+    "super_short_sentiment": 33,
     "losing_money_effect": 407.26,
     "details": {
       "limit_up_count": 33,
@@ -1755,7 +1755,7 @@
   {
     "date": "20260720",
     "market_index": 125.6,
-    "super_short_sentiment": 53.0,
+    "super_short_sentiment": 53,
     "losing_money_effect": 463.76,
     "details": {
       "limit_up_count": 53,
@@ -1767,7 +1767,7 @@
   {
     "date": "20260721",
     "market_index": 153.8,
-    "super_short_sentiment": 121.0,
+    "super_short_sentiment": 121,
     "losing_money_effect": 48.2,
     "details": {
       "limit_up_count": 121,
@@ -1779,7 +1779,7 @@
   {
     "date": "20260722",
     "market_index": 102.07,
-    "super_short_sentiment": 47.0,
+    "super_short_sentiment": 47,
     "losing_money_effect": 59.37,
     "details": {
       "limit_up_count": 47,
@@ -1791,7 +1791,7 @@
   {
     "date": "20260723",
     "market_index": 107.56,
-    "super_short_sentiment": 116.0,
+    "super_short_sentiment": 116,
     "losing_money_effect": 21.73,
     "details": {
       "limit_up_count": 116,
@@ -1803,7 +1803,7 @@
   {
     "date": "20260724",
     "market_index": 51.57,
-    "super_short_sentiment": 40.0,
+    "super_short_sentiment": 40,
     "losing_money_effect": 71.57,
     "details": {
       "limit_up_count": 40,
@@ -1815,7 +1815,7 @@
   {
     "date": "20260727",
     "market_index": 134.64,
-    "super_short_sentiment": 111.0,
+    "super_short_sentiment": 111,
     "losing_money_effect": 22.48,
     "details": {
       "limit_up_count": 111,
@@ -1827,7 +1827,7 @@
   {
     "date": "20260728",
     "market_index": 65.06,
-    "super_short_sentiment": 61.0,
+    "super_short_sentiment": 61,
     "losing_money_effect": 122.69,
     "details": {
       "limit_up_count": 61,
@@ -1839,7 +1839,7 @@
   {
     "date": "20260729",
     "market_index": 111.92,
-    "super_short_sentiment": 81.0,
+    "super_short_sentiment": 81,
     "losing_money_effect": 32.74,
     "details": {
       "limit_up_count": 81,
@@ -1851,7 +1851,7 @@
   {
     "date": "20260730",
     "market_index": 81.37,
-    "super_short_sentiment": 52.0,
+    "super_short_sentiment": 52,
     "losing_money_effect": 174.76,
     "details": {
       "limit_up_count": 52,
@@ -1863,7 +1863,7 @@
   {
     "date": "20260731",
     "market_index": 121.74,
-    "super_short_sentiment": 99.0,
+    "super_short_sentiment": 99,
     "losing_money_effect": 51.94,
     "details": {
       "limit_up_count": 99,
@@ -1875,7 +1875,7 @@
   {
     "date": "20260803",
     "market_index": 82.31,
-    "super_short_sentiment": 75.0,
+    "super_short_sentiment": 75,
     "losing_money_effect": 33.58,
     "details": {
       "limit_up_count": 75,
@@ -1887,7 +1887,7 @@
   {
     "date": "20260804",
     "market_index": 109.94,
-    "super_short_sentiment": 138.0,
+    "super_short_sentiment": 138,
     "losing_money_effect": 9.8,
     "details": {
       "limit_up_count": 138,

@@ -7,12 +7,12 @@ type SentimentData = {
   date: string
   market_index: number
   super_short_sentiment: number
-  losing_money_effect: number
+  losing_money_effect: number | null
   details?: {
     up_count: number | null
     limit_up_count: number
-    bomb_count: number
-    limit_down_count: number
+    bomb_count: number | null
+    limit_down_count: number | null
     sse_change_pct?: number
   }
 }
@@ -87,7 +87,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                     const { x, y, value, index } = props;
                     if (index === undefined) return null;
                     const item = data[index];
-                    if (item && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
+                    if (item?.losing_money_effect != null && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
                       return <text x={x} y={y} dy={-10} fill="#ef4444" fontSize={11} textAnchor="middle" fontWeight="bold">{value}</text>;
                     }
                     return null;
@@ -105,7 +105,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                     const { x, y, value, index } = props;
                     if (index === undefined) return null;
                     const item = data[index];
-                    if (item && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
+                    if (item?.losing_money_effect != null && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
                       return <text x={x} y={y} dy={-10} fill="#a855f7" fontSize={11} textAnchor="middle" fontWeight="bold">{value}</text>;
                     }
                     return null;
@@ -123,7 +123,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                     const { x, y, value, index } = props;
                     if (index === undefined) return null;
                     const item = data[index];
-                    if (item && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
+                    if (item?.losing_money_effect != null && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
                       return <text x={x} y={y} dy={-10} fill="#22c55e" fontSize={11} textAnchor="middle" fontWeight="bold">{value}</text>;
                     }
                     return null;
@@ -230,7 +230,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                         {item.super_short_sentiment}
                       </td>
                       <td className="px-1 py-2 text-green-600 font-bold">
-                        {item.losing_money_effect}
+                        {item.losing_money_effect ?? '-'}
                       </td>
                     </tr>
                   ))}

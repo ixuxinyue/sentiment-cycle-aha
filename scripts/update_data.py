@@ -67,8 +67,8 @@ def fetch_record_for_date(target_date_str):
 
     # 2. Super Short Sentiment & Losing Money
     limit_up_count = 0
-    bomb_count = 0
-    limit_down_count = 0
+    bomb_count = None
+    limit_down_count = None
 
     try:
         # Limit Up
@@ -95,11 +95,15 @@ def fetch_record_for_date(target_date_str):
         # Calculations
         super_short_sentiment = limit_up_count # Simplification for history
 
-        total_touch_limit = bomb_count + limit_up_count
-        炸板率 = (bomb_count / total_touch_limit) if total_touch_limit > 0 else 0
+        has_losing_money_inputs = bomb_count is not None and limit_down_count is not None
+        safe_bomb_count = bomb_count if bomb_count is not None else 0
+        safe_limit_down_count = limit_down_count if limit_down_count is not None else 0
+
+        total_touch_limit = safe_bomb_count + limit_up_count
+        炸板率 = (safe_bomb_count / total_touch_limit) if total_touch_limit > 0 else 0
 
         # Losing money effect formula
-        losing_money_effect = (炸板率 * 100) + (limit_down_count * 2)
+        losing_money_effect = ((炸板率 * 100) + (safe_limit_down_count * 2)) if has_losing_money_inputs else None
 
         # If it's today, we could try to get more details, but keep it simple for now
         print(f"    Results: LimitUp={limit_up_count}, Bomb={bomb_count}, LimitDown={limit_down_count}")
@@ -113,11 +117,11 @@ def fetch_record_for_date(target_date_str):
         "date": today_str,
         "market_index": round(market_index, 2),
         "super_short_sentiment": round(float(super_short_sentiment), 2),
-        "losing_money_effect": round(float(losing_money_effect), 2),
+        "losing_money_effect": round(float(losing_money_effect), 2) if losing_money_effect is not None else None,
         "details": {
             "limit_up_count": int(limit_up_count),
-            "bomb_count": int(bomb_count),
-            "limit_down_count": int(limit_down_count),
+            "bomb_count": int(bomb_count) if bomb_count is not None else None,
+            "limit_down_count": int(limit_down_count) if limit_down_count is not None else None,
             "up_count": int(up_count) if up_count > 0 else None
         }
     }
