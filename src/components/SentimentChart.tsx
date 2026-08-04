@@ -21,20 +21,33 @@ interface SentimentChartProps {
   data: SentimentData[]
 }
 
+function parseDate(value: string) {
+  return new Date(`${value.slice(0, 4)}-${value.slice(4, 6)}-${value.slice(6, 8)}T00:00:00`)
+}
+
 export function SentimentChart({ data }: SentimentChartProps) {
+  const latestDate = data.at(-1)?.date
+  const chartData = latestDate
+    ? data.filter((item) => {
+        const latestTime = parseDate(latestDate).getTime()
+        const itemTime = parseDate(item.date).getTime()
+        return latestTime - itemTime <= 31 * 24 * 60 * 60 * 1000
+      })
+    : data
+
   return (
     <div className="flex flex-col gap-6">
       <Card className="w-full h-full min-h-[500px]">
         <CardHeader>
           <CardTitle>市场情绪周期指标</CardTitle>
           <CardDescription>
-            基于量化分析的市场情绪追踪。每日收盘后更新。
+            基于量化分析的市场情绪追踪。展示最近一个月，每日收盘后更新。
           </CardDescription>
         </CardHeader>
         <CardContent>
           <div className="h-[400px] w-full">
             <ResponsiveContainer width="100%" height="100%">
-              <LineChart data={data}>
+              <LineChart data={chartData}>
                 <CartesianGrid strokeDasharray="3 3" className="stroke-muted/30" />
                 <XAxis
                   dataKey="date"
@@ -86,7 +99,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                   label={(props) => {
                     const { x, y, value, index } = props;
                     if (index === undefined) return null;
-                    const item = data[index];
+                    const item = chartData[index];
                     if (item?.losing_money_effect != null && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
                       return <text x={x} y={y} dy={-10} fill="#ef4444" fontSize={11} textAnchor="middle" fontWeight="bold">{value}</text>;
                     }
@@ -104,7 +117,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                   label={(props) => {
                     const { x, y, value, index } = props;
                     if (index === undefined) return null;
-                    const item = data[index];
+                    const item = chartData[index];
                     if (item?.losing_money_effect != null && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
                       return <text x={x} y={y} dy={-10} fill="#a855f7" fontSize={11} textAnchor="middle" fontWeight="bold">{value}</text>;
                     }
@@ -122,7 +135,7 @@ export function SentimentChart({ data }: SentimentChartProps) {
                   label={(props) => {
                     const { x, y, value, index } = props;
                     if (index === undefined) return null;
-                    const item = data[index];
+                    const item = chartData[index];
                     if (item?.losing_money_effect != null && (item.losing_money_effect > item.market_index || item.losing_money_effect > item.super_short_sentiment)) {
                       return <text x={x} y={y} dy={-10} fill="#22c55e" fontSize={11} textAnchor="middle" fontWeight="bold">{value}</text>;
                     }
