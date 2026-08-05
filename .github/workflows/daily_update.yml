@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install akshare pandas
+          pip install -r requirements.txt
           
       - name: Run update script
         run: python scripts/update_data.py --fill-missing
