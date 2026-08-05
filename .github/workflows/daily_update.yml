@@ -2,9 +2,10 @@ name: Update Sentiment Data
 
 on:
   schedule:
-    # Run at 16:10 Beijing Time (UTC+8) = 08:10 UTC.
-    # Avoid the top of the hour because scheduled GitHub Actions can be delayed then.
-    - cron: '10 8 * * *'
+    # Run after the A-share close, Beijing Time (UTC+8).
+    # The later retry catches data providers that publish end-of-day data slowly.
+    - cron: '30 10 * * *' # 18:30 Beijing Time
+    - cron: '30 13 * * *' # 21:30 Beijing Time
   workflow_dispatch: # Allow manual trigger
 
 jobs:
