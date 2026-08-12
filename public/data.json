@@ -1955,5 +1955,17 @@
       "limit_down_count": 1,
       "up_count": 1508
     }
+  },
+  {
+    "date": "20260812",
+    "market_index": 109.59,
+    "super_short_sentiment": 92.0,
+    "losing_money_effect": 12.38,
+    "details": {
+      "limit_up_count": 92,
+      "bomb_count": 13,
+      "limit_down_count": 0,
+      "up_count": 2191
+    }
   }
 ]
