@@ -1991,5 +1991,17 @@
       "limit_down_count": 10,
       "up_count": 2003
     }
+  },
+  {
+    "date": "20260817",
+    "market_index": 142.38,
+    "super_short_sentiment": 106.0,
+    "losing_money_effect": 12.17,
+    "details": {
+      "limit_up_count": 106,
+      "bomb_count": 12,
+      "limit_down_count": 1,
+      "up_count": 2847
+    }
   }
 ]
