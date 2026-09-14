@@ -2231,5 +2231,17 @@
       "limit_down_count": 21,
       "up_count": 1294
     }
+  },
+  {
+    "date": "20260914",
+    "market_index": 97.86,
+    "super_short_sentiment": 55.0,
+    "losing_money_effect": 67.29,
+    "details": {
+      "limit_up_count": 55,
+      "bomb_count": 30,
+      "limit_down_count": 16,
+      "up_count": 1957
+    }
   }
 ]
