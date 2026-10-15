@@ -2435,5 +2435,17 @@
       "limit_down_count": 11,
       "up_count": 1469
     }
+  },
+  {
+    "date": "20261015",
+    "market_index": 52.42,
+    "super_short_sentiment": 36.0,
+    "losing_money_effect": 68.28,
+    "details": {
+      "limit_up_count": 36,
+      "bomb_count": 7,
+      "limit_down_count": 26,
+      "up_count": 1048
+    }
   }
 ]
