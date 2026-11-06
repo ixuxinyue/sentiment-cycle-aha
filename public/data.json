@@ -2627,5 +2627,17 @@
       "limit_down_count": 0,
       "up_count": 2060
     }
+  },
+  {
+    "date": "20261106",
+    "market_index": 66.88,
+    "super_short_sentiment": 32.0,
+    "losing_money_effect": 60.43,
+    "details": {
+      "limit_up_count": 32,
+      "bomb_count": 14,
+      "limit_down_count": 15,
+      "up_count": 1337
+    }
   }
 ]
