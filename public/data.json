@@ -2747,5 +2747,17 @@
       "limit_down_count": 68,
       "up_count": 1829
     }
+  },
+  {
+    "date": "20261120",
+    "market_index": 63.25,
+    "super_short_sentiment": 28.0,
+    "losing_money_effect": 136.0,
+    "details": {
+      "limit_up_count": 28,
+      "bomb_count": 7,
+      "limit_down_count": 58,
+      "up_count": 1265
+    }
   }
 ]
